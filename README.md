@@ -14,4 +14,6 @@ OSSPRNV provides absolute freedom of speech and does not delete any content than
 
 OSSPRNV provides access to its professional API to any user. Only one type of account is available to users.
 
+A polemic indicator on each website allows the contradictory debate to be brought in front.
+
 Please also check https://github.com/eamadit/rswici
