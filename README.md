@@ -12,4 +12,6 @@ OSSPRNV has an eternal storage policy. In order to limit storage of low-quality 
 
 OSSPRNV provides absolute freedom of speech and does not delete any content thanks to its eternal storage policy which forces the user to provide a valid id with or without biometric verification in order to avoid a user to have more than 3 accounts.
 
+OSSPRNV provides access to its professional API to any user. Only one type of account is available to users.
+
 Please also check https://github.com/eamadit/rswici
