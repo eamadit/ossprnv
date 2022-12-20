@@ -10,7 +10,7 @@ No more respect of intellectual property means no more culture. No more culture 
 
 OSSPRNV has an eternal storage policy. In order to limit storage of low-quality content, OSSPRNV has a quality indicator combining machine learning on cheating techniques, number of views, social interaction, user data and other high quality data to determine the disk space of each user like an elitist algorithm with a minimum of 1GB. OSSPRNV also allows to upload audio files, the user can upload a picture to replace the video. The royalties are calculated according to the number of views and the social interaction verifications. The user is able to pay for the eternal storage beyond his allowed disk space given the fact that storage space will soon be free with technologial progress. Political funding is welcome in order to guarantee a proactive disk space policy.
 
-OSSPRNV provides absolute freedom of speech and does not delete any content thanks to its eternal storage policy which forces the user to provide a valid id with or without biometric verification in order to avoid a user to have more than 3 accounts.
+OSSPRNV provides absolute freedom of speech and does not delete any content thanks to its eternal storage policy which forces the user to provide a valid id with or without biometric verification in order to avoid a user to have more than 3 accounts. A user whoose ID has been used to register an account will not be blocked, the existing account will be notified with a owner change form.
 
 OSSPRNV provides access to its professional API to any user. Only one type of account is available to users.
 
