@@ -1,6 +1,6 @@
 # ossprnv
 
-An open source streaming platform with real number of views and which remunerates content creators
+An open source streaming platform with real number of views which remunerates content creators who can display, hide or fake the views counter
 
 Dear user of falsely legal streaming,
 
@@ -14,6 +14,6 @@ OSSPRNV provides absolute freedom of speech and does not delete any content than
 
 OSSPRNV provides access to its professional API to any user. Only one type of account is available to users.
 
-A polemic indicator on each website allows the contradictory debate to be brought in front.
+Polemic index, hype index, trend index, etc. on each website allow the contradictory debate to be brought in front.
 
 Please also check https://github.com/eamadit/rswici
